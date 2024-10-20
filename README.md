@@ -56,7 +56,7 @@ yarn dev
 
 ## Link For Documentation
 
-Before running this project, ensure that you have the following installed:
+- [Node.js](https://nodejs.org/)
 
-- [Link](https://vercel.live/link/my-store-api-docs.vercel.app)
+- [Link]_(https://vercel.live/link/my-store-api-docs.vercel.app)
 
