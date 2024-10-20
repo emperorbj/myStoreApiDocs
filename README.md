@@ -56,5 +56,5 @@ yarn dev
 ```
 
 ## Link For Documentation
-- [Link]_(https://vercel.live/link/my-store-api-docs.vercel.app)
+- [Link](https://vercel.live/link/my-store-api-docs.vercel.app)
 
