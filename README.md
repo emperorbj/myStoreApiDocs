@@ -53,10 +53,8 @@ Run the development server:
 npm run dev
 # or
 yarn dev
+```
 
 ## Link For Documentation
-
-- [Node.js](https://nodejs.org/)
-
 - [Link]_(https://vercel.live/link/my-store-api-docs.vercel.app)
 
